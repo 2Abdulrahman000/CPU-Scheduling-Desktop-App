@@ -1,0 +1,101 @@
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojResolveAssemblyReference.cache
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Round_Robin.resources
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.Cache
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+c:\users\the first\documents\visual studio 2015\Projects\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+D:\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+D:\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+D:\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojAssemblyReference.cache
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Round_Robin.resources
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.cache
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.CoreCompileInputs.cache
+D:\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFSarrival.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojAssemblyReference.cache
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFSArrival.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.cache
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.CoreCompileInputs.cache
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJ.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJArrival.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\mscorlib.dll
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normidna.nlp
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfc.nlp
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfd.nlp
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkc.nlp
+D:\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkd.nlp
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojResolveAssemblyReference.cache
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFSArrival.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJ.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJArrival.resources
+D:\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.Cache
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\mscorlib.dll
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normidna.nlp
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfc.nlp
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfd.nlp
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkc.nlp
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkd.nlp
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojResolveAssemblyReference.cache
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFSArrival.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJ.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJArrival.resources
+C:\Users\the first\Desktop\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.Cache
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe.config
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.exe
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.pdb
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.exe
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\cpu scheduling.pdb
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\mscorlib.dll
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normidna.nlp
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfc.nlp
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfd.nlp
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkc.nlp
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\bin\Debug\normnfkd.nlp
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csprojResolveAssemblyReference.cache
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFS.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.FCFSArrival.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Form1.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Piorotiy.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.Properties.Resources.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJ.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu_scheduling.STJArrival.resources
+E:\CS3\Term 1\Operating System\OSعملى\cpu scheduling\cpu scheduling\cpu scheduling\obj\Debug\cpu scheduling.csproj.GenerateResource.Cache
